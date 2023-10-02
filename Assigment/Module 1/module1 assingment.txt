@@ -1,0 +1,26 @@
+
+                                        MODULE: 1
+                                 SE – Overview of IT Industry
+
+
+    1. Software is a programme used by the computer.Software engineering is the process of developing software.
+    
+    2.There are 5 types of softwares:
+        Application softeware
+        System software
+        Driver software
+        Middleware
+        Programming software
+
+    3. SDLC is software development life cycle.
+       Stage 1: Project Planning - For project planning the person has to ask the client about the project details.
+       Stage 2: Gathering Requirements & Analysis- the person has to gather information about the project according to the requirements and then analyze it.
+       Stage 3: Design- In this step the person has to design the model
+       Stage 4: Coding or Implementation-After designing the model the person will now start coding and implementation.
+       Stage 5: Testing- Every project needs testing, so after the programme is coded,it will be tested. From this steps the mistakes would be identified and can be corrected
+       Stage 6: Deployment-After testing the model, it will get deployed .
+       Stage 7: Maintenance- The updates can be made from time to time in the prograame .
+
+    4.
+
+       
